@@ -37,7 +37,7 @@
     "ext-pgsql": "*",
     "ext-simplexml": "*",
     "ext-spl": "*",
-    "monolog/monolog": "dev-master#49f95a2d636ea9e7409c67890ae29730f50bc22a",
+    "monolog/monolog": "^1.14.0",
     "kevinlebrun/colors.php": "^0.4.1"
   },
   "require-dev": {
